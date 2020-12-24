@@ -3,7 +3,7 @@
 This repository contains the code to build a docker container and expose via an API the R script
 to obtain the essential words of a series of texts.
 
-The web application is [here](https://github.com/edgar8acas/codice)
+The web application that consumes this code is [here](https://github.com/edgar8acas/codice)
 
 ## Usage
 
