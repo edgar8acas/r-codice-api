@@ -1,0 +1,6 @@
+install.packages("tm")
+install.packages("jsonlite")
+install.packages("quanteda")
+install.packages("dplyr")
+install.packages("tibble")
+install.packages("plumber")
